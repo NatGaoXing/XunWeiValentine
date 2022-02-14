@@ -4,7 +4,7 @@
 """
 Author Xing GAO
 https://github.com/NatGaoXing
-这是一个简约的抽奖系统，拥有最基础的共嗯那个。并不美观 :)
+这是一个简约的抽奖系统，拥有最基础的功能。并不美观 :)
 开发时间实在过短，没有什么注释，能用就行HHH
 """
 from openpyxl import load_workbook
